@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Shreesha-codes
+- 👋 Hi, I’m @Shreesha_sathish
 - 👀 I’m interested in artificial intelligence 
-- 🌱 I’m currently learning programming language 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about programming
+- 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me through social media 
-- 😄 Pronouns: he/she
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
