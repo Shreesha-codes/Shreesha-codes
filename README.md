@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on projects and Open sources <br>🤝  I’m currently learning Devops<br>💬 I learn things<br>⚡I love to be judged
+🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on projects and Open sources <br>🤝  I’m currently learning Devops<br>💬 I learn things<br>⚡I love to be loved
 
 
 ## 🌐 Socials:
